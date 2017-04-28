@@ -1,0 +1,43 @@
+@MaxInfo
+
+JSON formatter - https://jsonformatter.curiousconcept.com/
+
+API - Application Programming Interface   
+
+searh earthquake data API
+
+EARTHQUAKE API web address-- http://earthequake.usgs.gov/fdsnws/event/1/
+
+metadata -  keywords.
+
+TIPS for building a great UI -- https://developer.android.com/training/best-ui.html
+
+UI Mock-up -- https://lh3.googleusercontent.com/g_3Cj8mRrGaNjbO3NSByf6gvgEpvFAiLEJ5swoeVJdvkxhndk8OuSKjU871d8PCmm0yecYwYpisVmStKV9Y=s0#w=1440&h=2560
+
+Mockup - draft of your idea.
+
+USGS feeds -> https://earthquake.usgs.gov/earthquakes/feed/v1.0/index.php
+
+USGS spreasheet -> https://earthquake.usgs.gov/earthquakes/feed/v1.0/csv.php
+
+jsonprettyprint.com -- format the json metadata.
+
+Unix time stamp -> is define as a number of seconds since the date january 1st 1970.
+
+When importing a project, Make sure that they include the most up-to-date versions of:
+
+    compileSdkVersion
+    buildToolsVersion
+    targetSdkVersion
+	
+	
+JSON =  JavaScript Object Notation
+
+Parsing -> translate, computer reads the text tot he language it knows and translate it to more useful representation.
+
+JSONObject tutorialspoint -> http://www.tutorialspoint.com/android/android_json_parser.htm
+
+quake attribute  -> https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php
+				 -> https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson_detail.php
+
+

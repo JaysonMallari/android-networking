@@ -1,0 +1,22 @@
+PERMISSION 
+	
+	DOCUMENTATIONS -- https://developer.android.com/reference/android/Manifest.permission.html?utm_source=udacity&utm_medium=course&utm_campaign=android_basics
+	
+	ex.
+		<uses-permission  
+			android:name="android.permission.SEND_SMS" />
+			
+		<application
+			...>
+		</application>
+		
+Query - means request for data.
+
+API reference --> https://developer.spotify.com/web-api/endpoint-reference/
+
+STATUS CODE 
+200 -- OK - request recieved ,everything is normal.
+301 -- Moved permanently
+400 --  Bad request
+404 -- Page not found
+500 -- Internal sever error
