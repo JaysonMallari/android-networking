@@ -1,0 +1,19 @@
+JSON
+
+CONVERTING BYTE STREAM TO A STRING
+
+InputSteam --> represent a stream of bytes (small chunks of data).
+BufferedReader --> helps us read text froma InputStream.
+
+notes:
+	String is immutable --> it CAN'T be change once its been created.
+	StringBuilder is mutable --> it CAN be change once created.
+	
+STRING BUILDER EXAMPLE
+
+		StringBuilder builder =  new StringBuilder();
+		builder.append("World");
+		builder.deleteCharAt(3); //  delete the character "l".
+		builder.append(" builder).append(".");
+		
+		String built = builder.toString();
