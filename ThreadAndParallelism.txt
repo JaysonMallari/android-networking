@@ -1,0 +1,7 @@
+Thread and Parallelism
+
+Process and thread article --> https://developer.android.com/guide/components/processes-and-threads.html?utm_source=udacity&utm_medium=course&utm_campaign=android_basics
+
+Developer guide --> https://developer.android.com/training/articles/perf-anr.html?utm_source=udacity&utm_medium=course&utm_campaign=android_basics
+
+video on threading --> https://www.youtube.com/watch?v=qk5F6Bxqhr4&index=1&list=PLWz5rJ2EKKc9CBxr3BVjPTPoDPLdPIFCE
