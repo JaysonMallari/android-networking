@@ -7,3 +7,8 @@ Developer guide --> https://developer.android.com/training/articles/perf-anr.htm
 video on threading --> https://www.youtube.com/watch?v=qk5F6Bxqhr4&index=1&list=PLWz5rJ2EKKc9CBxr3BVjPTPoDPLdPIFCE
 
 Async Documentation --> https://developer.android.com/reference/android/os/AsyncTask.html
+
+onPreExecute() --> Before the task executed --> main thread
+doInBackground(params..) --> After onPreExecuted --> background thread
+onProgressUpdate(progress ..) --> After the publishProgress() is called, while doInBackground is executing --> main thread
+onPostExecute() --> After doInBackground finishes --> main( update ui )
