@@ -1,0 +1,5 @@
+Async
+ --> https://developer.android.com/reference/android/os/AsyncTask.html?utm_source=udacity&utm_medium=course&utm_campaign=android_basics
+ 
+ Background processing with AsyncTask
+ --> http://www.vogella.com/tutorials/AndroidBackgroundProcessing/article.html
