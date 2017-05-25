@@ -3,3 +3,5 @@ Async
  
  Background processing with AsyncTask
  --> http://www.vogella.com/tutorials/AndroidBackgroundProcessing/article.html
+ 
+ Download Code --> https://developer.android.com/samples/NetworkConnect/index.html?utm_source=udacity&utm_medium=course&utm_campaign=android_basics
